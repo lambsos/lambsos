@@ -18,8 +18,8 @@ SeedMC (seed-production ERP) · Aranafy (dental practice management) · Salt Lak
 *Most of my work lives in private client repositories.*
 
 #### Stack
-Angular · TypeScript · Node.js · NestJS · Ionic · PrimeNG · MongoDB · Python · C++
+Angular · TypeScript · Node.js · NestJS · Ionic · PrimeNG · MongoDB · Python · C++  
 LLM APIs (Anthropic, OpenAI, Google) · Cursor & Cloud Agents · n8n · Git
 
-🎓 B.S. Software Engineering + Certificate in Software Architecture, BYU–Idaho
+🎓 B.S. Software Engineering + Certificate in Software Architecture, BYU–Idaho  
 🔗 [LinkedIn](https://www.linkedin.com/in/austin-eldredge) · [Tightknit Technologies](https://tightknittechnologies.com)
